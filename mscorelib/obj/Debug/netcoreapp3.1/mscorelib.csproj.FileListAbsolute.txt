@@ -1,0 +1,14 @@
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\bin\Debug\netcoreapp3.1\mscorelib.exe
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\bin\Debug\netcoreapp3.1\mscorelib.deps.json
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\bin\Debug\netcoreapp3.1\mscorelib.runtimeconfig.json
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\bin\Debug\netcoreapp3.1\mscorelib.runtimeconfig.dev.json
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\bin\Debug\netcoreapp3.1\mscorelib.dll
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\bin\Debug\netcoreapp3.1\mscorelib.pdb
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\obj\Debug\netcoreapp3.1\mscorelib.csproj.AssemblyReference.cache
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\obj\Debug\netcoreapp3.1\mscorelib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\obj\Debug\netcoreapp3.1\mscorelib.AssemblyInfoInputs.cache
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\obj\Debug\netcoreapp3.1\mscorelib.AssemblyInfo.cs
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\obj\Debug\netcoreapp3.1\mscorelib.csproj.CoreCompileInputs.cache
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\obj\Debug\netcoreapp3.1\mscorelib.dll
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\obj\Debug\netcoreapp3.1\mscorelib.pdb
+C:\Users\Victim\Desktop\Code\mscorelib\mscorelib\obj\Debug\netcoreapp3.1\mscorelib.genruntimeconfig.cache
